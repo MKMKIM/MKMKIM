@@ -16,7 +16,9 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;">
+    <div style="text-align: left;"><a href="https://open.kakao.com/o/sKycxkRf">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQpxRbOhMFv4Y12kBkLQJCv-nysyssa0NuEA&usqp=CAU" target="_blank" alt="카카오톡" width="50">
+</a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
