@@ -20,7 +20,7 @@
         <a href="https://open.kakao.com/o/sKycxkRf">
   <img src="https://img.shields.io/badge/Talk-000000.svg?&style=for-the-badge&logo&logoColor=white" target="_blank" alt="카카오톡" width="50" height="50">
 </a>
-        <a href="v28611@naver.com">
+        <a href="mailto:v28611@naver.com">
   <img src="https://img.shields.io/badge/Naver-000000.svg?&style=for-the-badge&logo&logoColor=white" target="_blank" alt="네이버" width="50" height="50">
 </a>
           </div>  <br> 
